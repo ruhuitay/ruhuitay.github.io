@@ -6,11 +6,11 @@
 - title: Posts
   url: /posts/
 
-- title: Professional Life
-  url: /professional_life/
+- title: CV
+  url: /cv/
 
-- title: Food
-  url: /food/
+#- title: Food
+#  url: /food/
 
 # - title: Search
 #   url: /search/
