@@ -1,8 +1,9 @@
 ---
-title: Food
+title: CV
 layout: collection
-permalink: /food/
+permalink: /cv/
 collection: recipes
 entries_layout: grid
 ---
 
+Work in Progress...
