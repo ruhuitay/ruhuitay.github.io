@@ -6,4 +6,4 @@ collection: recipes
 entries_layout: grid
 ---
 
-Work in Progress...
+No posts yet!
