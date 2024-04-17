@@ -14,6 +14,9 @@ There, I met a bunch of talented students and even managed to work together with
 I work as a Data Analyst now in the semiconductor industry in the quality assurance department. Check out my CV below to see what I've worked on so far!
 
 
+<strong> My technology stack:<strong> <br>
+(Data Science/Analysis) SQL, OpenCV, scikit-learn, Pydantic, matplotlib, Json <br>
+(Software Engineering) Flask, Bootstrap,  Javascript, typescript, React Qt, unit-testing, argparse, setuptools <br>
 
 # Work experience
 
@@ -31,7 +34,6 @@ Topics worked on so far:
 5. Python (web) application maintenance.
 6. Setting up test code to facilitate data exchange (ensure data type and history consistency) with [parent company](https://www.rohm.com/).
 
-Tech-stack: OpenCV, scikit-learn, Flask, Pydantic, Bootstrap, matplotlib, Qt, pyproject.toml, unit-testing, SQL, Javascript, typescript, React
 
 <em><strong> Working Student <em><strong> <br>
 <em>[Siemens Healthineers, Erlangen](https://www.siemens-healthineers.com/)<em> <br>
@@ -52,9 +54,9 @@ Cash and Asset Management Department <br>
 
 Focus: Mathematical modelling and Systems Biology + Biological Structure and Processes <br>
 Projects I was particularly interested in: Membrane simulation, Genomics <br>
-Master Thesis focus: Classification models, dimension reduction techniques and fourier descriptors
+<strong> Master Thesis focus: Classification models (Random Forests, Linear Support Vectors), dimension reduction techniques (UMAP, PCA) and Fourier Descriptors <strong>
  
-Download my work:
+<strong>See my work:<strong> 
 
 - [Master Thesis (PDF)](/download/Master_Thesis___Classification_of_cells_in_terms_of_its_deformity_using_RTDC_data.pdf)
 - [Master Thesis Presentation Slides (PDF)](/download/Master_Thesis_Presentation.pdf)
@@ -66,5 +68,5 @@ Download my work:
 <em>National University of Singapore, Singapore <em> <br>
 <em>2015 - 2019<em><br>
 
-Focus: Research methodology, statical analysis of collected data, Physical chemistry, inorganic chemistry <br>
-Bachelor Thesis focus: Computational Chemistry, Finite difference method
+Focus: Research methodologies, statical analysis of collected data, Physical chemistry, inorganic chemistry <br>
+<strong>Bachelor Thesis focus: Computational Chemistry, Finite difference method, High Performance Computing<strong>
