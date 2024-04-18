@@ -7,16 +7,16 @@ entries_layout: grid
 ---
 # About Me
 I started my programming journey during the Undergraduate Research Opportunity at Imperial College London. 
-For the first time, I started writing code that made my data analysis work so much more fun and efficient, and thus, never stopped since then.
+For the first time, I started writing code that made the data analysis part of research so much more fun and efficient, and thus, never stopped since.
 To improve my programming skills, I decided to focus on working on a Computational Chemistry project for my Bachelor's Thesis.
-Later, combining my passion in biology and programming, I decided to enrol myself for the Integrated Life Science program at FAU.
-There, I met a bunch of talented students and even managed to work together with a group of Data Scientists at the Max-Planck Institute for the Science of Light.
-I work as a Data Analyst now in the semiconductor industry in the quality assurance department. Check out my CV below to see what I've worked on so far!
+Later, combining my passion in biology and programming, I then enrolled myself into the Integrated Life Science program at FAU.
+There, I met a bunch of talented students and even managed to work together with a group of Data Scientists/Software Engineers at the [Guck Lab](https://mpl.mpg.de/divisions/guck-division).
+I work as a Data Analyst now in the semiconductor industry, in the quality assurance department. Check out my CV below to see what I've worked on so far!
 
 
 <strong> My technology stack:<strong> <br>
-(Data Science/Analysis) SQL, OpenCV, scikit-learn, Pydantic, matplotlib, Json <br>
-(Software Engineering) Flask, Bootstrap,  Javascript, typescript, React Qt, unit-testing, argparse, setuptools <br>
+(Data Science/Analysis) SQL, OpenCV, pandas, numpy, scikit-learn, Pydantic, matplotlib, Json <br>
+(Software Engineering) Flask, Bootstrap, Qt, unit-testing, argparse, setuptools, HTML, Javascript, React <br>
 
 # Work experience
 
@@ -28,10 +28,10 @@ Quality Assurance Department <br>
 Topics worked on so far:
 
 1. Gabor Filters for image texture analysis on material.
-2. Developed desktop application using PyQt to extrat thousands of images in an automated way.
+2. Developed desktop application using PyQt to extract thousands of images in an automated way.
 3. Statistical modelling, verify old models.
 4. Data transformation in databases and setting up databases.
-5. Python (web) application maintenance.
+5. Python (web) application upgrade and maintenance.
 6. Setting up test code to facilitate data exchange (ensure data type and history consistency) with [parent company](https://www.rohm.com/).
 
 
@@ -53,7 +53,7 @@ Cash and Asset Management Department <br>
 <em>2020 - 2022</em>
 
 Focus: Mathematical modelling and Systems Biology + Biological Structure and Processes <br>
-Projects I was particularly interested in: Membrane simulation, Genomics <br>
+Projects/Modules I was particularly interested in: Membrane simulation, Genomics, Random Walk Model  <br>
 <strong> Master Thesis focus: Classification models (Random Forests, Linear Support Vectors), dimension reduction techniques (UMAP, PCA) and Fourier Descriptors <strong>
  
 <strong>See my work:<strong> 
