@@ -1,23 +1,18 @@
 ---
 title: "Hi, I'm Ru Hui"
-permalink: /./
 image: 
-  path: /images/bicycle.jpg
-  thumbnail: /images/bicycle.jpg
+  path: images/bicycle.jpg
+  thumbnail: images/bicycle.jpg
   caption: "Biking through Franconian Switzerland, Germany"
-categories:
-  - Layout
-tags:
-  - content
-  - image
-  - layout
 last_modified_at: 2024-03-26T09:43:50-05:00
+categories:
+  - About Me
+tags:
+  - About Me
+layout: collection
 ---
 
 I created this blog because I want to share the projects I have worked on so far, and what I've been up to lately.
-
-
-
 
 In my free time, I enjoy making foods from around the world in my kitchen. To me food connects people, and exploring the different flavours from around the world is an adventure.
 
