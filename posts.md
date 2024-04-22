@@ -1,9 +1,7 @@
 ---
 title: Posts
-layout: collection
+layout: posts
 permalink: /posts/
-collection: recipes
+show_excerpts: true
 entries_layout: grid
 ---
-
-No posts yet!
