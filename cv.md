@@ -1,15 +1,13 @@
 ---
 title: CV
-layout: collection
 permalink: /cv/
-collection: recipes
-entries_layout: grid
+entries_layout: list
 ---
 # About Me
 I started my programming journey during the Undergraduate Research Opportunity at Imperial College London. 
 For the first time, I started writing code that made the data analysis part of research so much more fun and efficient, and thus, never stopped since.
 To improve my programming skills, I decided to focus on working on a Computational Chemistry project for my Bachelor's Thesis.
-Later, combining my passion in biology and programming, I then enrolled myself into the Integrated Life Science program at FAU.
+Later, combining my passion in biology and programming, I then enrolled myself into the Integrated Life Science program at [FAU](https://www.fau.de/).
 There, I met a bunch of talented students and even managed to work together with a group of Data Scientists/Software Engineers at the [Guck Lab](https://mpl.mpg.de/divisions/guck-division).
 I work as a Data Analyst now in the semiconductor industry, in the quality assurance department. Check out my CV below to see what I've worked on so far!
 
