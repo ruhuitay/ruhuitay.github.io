@@ -15,11 +15,11 @@
 # in the templates via {{ site.myvariable }}.
 #theme: jekyll-theme-so-simple
 remote_theme: mmistakes/so-simple-theme
-skin: "/assets/css/skins/default.css"
 locale: en-US
+theme_mode: dark
 title: "Ru Hui Tay"
 description: "I talk about food and work."
-baseurl: # the subpath of your site, e.g. "/blog"
+baseurl:  # the subpath of your site, e.g. "/blog"
 url: https://ruhuitay.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
@@ -58,8 +58,8 @@ feed:
 search_full_content: false # can have performance implications for large sites
 
 # Taxonomy pages
-# category_archive_path: "/categories/#"
-# tag_archive_path: "/tags/#"
+category_archive_path: "/categories/#"
+tag_archive_path: "/tags/#"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -92,13 +92,7 @@ defaults:
 # Site Author
 author:
   name: Ru Hui Tay
-  picture:
-  email:
-  twitter:
-  links:
-    - title:
-      url:
-      icon:
+  picture: /images/bio.jpg
 
 # Footer Links
 footer_links:
