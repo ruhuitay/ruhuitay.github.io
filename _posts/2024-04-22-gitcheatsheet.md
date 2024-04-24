@@ -9,7 +9,7 @@ tags:
 ---
 Are you starting out on your version control system journey and want to get started quickly? Using the File Explorer as the remote repository? Then read on!
 
-I decided to write my own as I found that some cheatsheets do not have all the commands. I needed to get the ball rolling when I first started out.
+I decided to write my own as I found that some cheatsheets do not have all the commands I needed, to get the ball rolling when I first started out.
 In this sheet, you will also find the commands for setting up a git remote repo on the file repository. The commands are mostly the same,
 but I sectioned out the commands for this special case [here](#using-file-explorer-as-remote-repository).
 
