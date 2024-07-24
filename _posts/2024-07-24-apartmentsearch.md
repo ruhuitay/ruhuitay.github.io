@@ -33,7 +33,7 @@ This led to a persistent cough and my nose was stuffy all the time. The problems
 Remember hot air rises, cold air sinks! Attics are probably too hot to live in the summer, and basements, too cold in the winter. 
 That is why the comparatively lower rent in comparison to other apartments. 
 
-## 4. Energy efficiency certificate/
+## 4. Energy efficiency certificate
 Request for the energy efficiency certificate from your landlord when viewing the flat. The [Energieeffizienzklasse](https://www.enter.de/blog/energieeffizienzklasse-haus) 
 rates the energy demand of a building on a scale from A+ to H. I currently live in one that is bad B to good C on the energy efficiency scale. 
 The apartment is south-facing and stays warm throughout the winter without much heating. As a result, we save quite a bit of heating costs every year.
